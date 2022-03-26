@@ -46,6 +46,6 @@
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "acorn": ">=5.7.4",
-    "minimist": ">=1.2.2"
+    "minimist": ">=1.2.6"
   }
 }
